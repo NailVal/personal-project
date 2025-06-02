@@ -5,7 +5,7 @@ function Videos() {
     return (
         <>
         <div>Videos page!</div>
-        <button><NavLink to="/">Go back</NavLink></button>
+        <button><NavLink to="/personal-project">Go back</NavLink></button>
         </>
     )
 }

@@ -42,15 +42,15 @@ function MainPage() {
           </div>
           <div className="main_card_list">
             <div className="li_ctn">
-              <img src={'/images/blog.jpg'} width={'100%'} height={'100%'} />
+              <img src={'images/blog.jpg'} width={'100%'} height={'100%'} />
               <div className="li"><NavLink to="/blog"><span>See Blog</span></NavLink></div>
             </div>
             <div className="li_ctn">
-              <img src={'/images/video.jpg'} width={'100%'} height={'100%'} />
+              <img src={'images/video.jpg'} width={'100%'} height={'100%'} />
               <div className="li"><NavLink to="/videos"><span>See Videos</span></NavLink></div>
             </div>
             <div className="li_ctn">
-              <img src={'/images/info.jpg'} width={'100%'} height={'100%'} />
+              <img src={'images/info.jpg'} width={'100%'} height={'100%'} />
               <div className="li"><NavLink to="/info"><span>See Info</span></NavLink></div>
             </div>
           </div>

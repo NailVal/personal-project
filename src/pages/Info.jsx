@@ -5,7 +5,7 @@ function Info() {
     return (
         <>
         <div>Info page!</div>
-        <button><NavLink to="/">Go back</NavLink></button>
+        <button><NavLink to="/personal-project">Go back</NavLink></button>
         </>
     )
 }
